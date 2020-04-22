@@ -44,7 +44,7 @@ def encryption_eng(input_string: str) -> str:
   return encrypted_str
 
 print('\n')
-plain = 'the cat sat on the mat'
+plain = 'the quick brown fox jumped over the lazy brown dog'
 print(f'plain text: {plain}')
 
 encrypted = encryption_eng(plain)
