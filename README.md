@@ -1,2 +1,2 @@
-# symmetrical_key_engr
+# symmetrical_key_eng
 simple symmetrical key encoder/decoder
